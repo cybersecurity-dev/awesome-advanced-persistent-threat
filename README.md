@@ -2,6 +2,7 @@
 
 ## 📖 Contents
 - [Blog Posts](#blog-posts)
+- [Datasets](#datasets)
 - [My Other Awesome Lists](#my-other-awesome-lists)
 - [Contributing](#contributing)
 - [Contributors](#contributors)
