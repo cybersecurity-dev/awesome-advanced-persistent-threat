@@ -5,6 +5,10 @@
 - [Contributing](#contributing)
 - [Contributors](#contributors)
 
+### Blog Posts
+- [Advanced persistent threats](https://cloud.google.com/security/resources/insights/apt-groups) by Google
+- [Advanced Persistent Threats Explained](https://www.crowdstrike.com/en-us/cybersecurity-101/threat-intelligence/advanced-persistent-threat-apt/) by Crowdstrike
+- []()
 ### My Other Awesome Lists
 
 * [awesome-android-reverse-engineering](https://github.com/cybersecurity-dev/awesome-android-reverse-engineering)
