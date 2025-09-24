@@ -1,3 +1,7 @@
+<p align="center"><a href="https://www.imperva.com/learn/application-security/apt-advanced-persistent-threat/">
+  <img width="30%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/APT_lifecycle_2.jpg" /><img width="29.8%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/winternals2.jpg" />
+</a></p>
+
 # Awesome [APT](https://en.wikipedia.org/wiki/Advanced_persistent_threat) (_[Advanced Persistent Threat](https://youtube.com/playlist?list=PL9V4Zu3RroiUdIxgc5RQhYLn0hDXe5PlQ&si=ww9UtDPh_tgn678z)_) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 <p align="center">
     <a href="https://github.com/cybersecurity-dev/"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/github.svg" alt="GitHub"></a>
@@ -9,11 +13,13 @@
 </p>
 
 ## 📖 Contents
-- [Blog Posts](#blog-posts)
-- [Datasets](#datasets)
-- [My Other Awesome Lists](#my-other-awesome-lists)
-- [Contributing](#contributing)
-- [Contributors](#contributors)
+- [Awesome APT (_Advanced Persistent Threat_) ](#awesome-apt-advanced-persistent-threat-)
+  - [📖 Contents](#-contents)
+    - [Blog Posts](#blog-posts)
+    - [Datasets](#datasets)
+    - [My Other Awesome Lists](#my-other-awesome-lists)
+    - [Contributing](#contributing)
+    - [Contributors](#contributors)
 
 ### Blog Posts
 - [Advanced persistent threats](https://cloud.google.com/security/resources/insights/apt-groups) by Google
