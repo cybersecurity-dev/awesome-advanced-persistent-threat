@@ -9,9 +9,9 @@
 </div>
 
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)]()
-[![FreeBSD](https://img.shields.io/badge/FreeBSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white)]()
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
-[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white)]()
+[![FreeBSD](https://img.shields.io/badge/FreeBSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white)](https://securelist.com/threat-category/apt-targeted-attacks/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://securelist.com/an-overview-of-targeted-attacks-and-apts-on-linux/)
+[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white)](https://www.microsoft.com/security/business/security-101/what-is-advanced-persistent-threat-apt)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/playlist?list=PL9V4Zu3RroiUdIxgc5RQhYLn0hDXe5PlQ&si=ww9UtDPh_tgn678z)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)]()
 
@@ -42,11 +42,12 @@ You can access the datasets [here](https://github.com/cybersecurity-dev/awesome-
 You can access the my other awesome lists [here](https://cyberthreatdefence.com/my_awesome_lists)
 
 ### Contributing
-
 [Contributions of any kind welcome, just follow the guidelines](contributing.md)!
 
 ### Contributors
-
 [Thanks goes to these contributors](https://github.com/cybersecurity-dev/awesome-advanced-persistent-threat/graphs/contributors)!
 
-[🔼 Back to top](#awesome-advanced-persistent-threat-)
+### License
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
+
+[🔼 Back to top](#awesome-apt-advanced-persistent-threat-)
