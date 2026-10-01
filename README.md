@@ -1,9 +1,63 @@
 <div align="center">
     <p align="center">
         <a href="https://www.imperva.com/learn/application-security/apt-advanced-persistent-threat/">
-          <img width="75%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/APT_lifecycle_2.jpg" />
+          <img width="95%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/APT_lifecycle_2.jpg" />
         </a>
     </p>
+
+```mermaid
+mindmap
+  root((Advanced<br/>Persistent Threat))
+
+    Objectives
+      Espionage
+      Financial Gain
+      Sabotage
+      Political Influence
+
+    Techniques
+      Spear Phishing
+      Zero-Day
+      Watering Hole
+      Supply Chain
+      Credential Theft
+
+    Persistence
+      Rootkits
+      Backdoors
+      Scheduled Tasks
+      Registry Keys
+      Web Shells
+
+    Privilege Escalation
+      Exploits
+      Misconfigurations
+      Credential Dumping
+
+    Lateral Movement
+      SMB
+      PsExec
+      RDP
+      SSH
+
+    Exfiltration
+      DNS Tunneling
+      HTTPS
+      Cloud Services
+
+    Detection
+      SIEM
+      EDR
+      IDS
+      Network Monitoring
+      Threat Hunting
+
+    Mitigation
+      MFA
+      Patch Management
+      Least Privilege
+      Zero Trust
+```
 
 # **`Awesome`** [APT](https://wikipedia.org/wiki/Advanced_persistent_threat) (_Advanced Persistent Threat_) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 </div>
@@ -18,7 +72,7 @@
 <p align="center">
     <a href="https://github.com/cybersecurity-dev/"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/github.svg" alt="GitHub"></a>
     &nbsp;
-    <a href="https://www.youtube.com/@CyberThreatDefence"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/youtube.svg" alt="YouTube"></a>
+    <a href="https://www.youtube.com/@CyberThreatDefense"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/youtube.svg" alt="YouTube"></a>
     &nbsp;
     <a href="https://cyberthreatdefence.com/my_awesome_lists"><img height="20" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/blog.svg" alt="My Awesome Lists"></a>
     <img src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/bar.gif">
